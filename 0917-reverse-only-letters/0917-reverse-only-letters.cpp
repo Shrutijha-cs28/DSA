@@ -13,10 +13,11 @@ public:
             }
             swap(s[left], s[right]);
 
-            left++;
-            right--;
+           left++;
+           right--;
+        
         }
 
-        return s;
+       return s;
     }
 };
