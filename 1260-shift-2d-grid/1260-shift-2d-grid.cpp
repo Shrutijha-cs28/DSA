@@ -16,7 +16,6 @@ public:
                 result[newRow][newCol] = grid[i][j];
             }
         }
-
         return result;
     }
 };
