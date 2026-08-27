@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
