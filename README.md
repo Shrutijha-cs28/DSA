@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shrutijha-cs28/DSA/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Shrutijha-cs28/DSA/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shrutijha-cs28/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrutijha-cs28/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Shrutijha-cs28/DSA/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Shrutijha-cs28/DSA/tree/master/1122-relative-sort-array) |
 ## Counting
