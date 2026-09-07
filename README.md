@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shrutijha-cs28/DSA/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shrutijha-cs28/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shrutijha-cs28/DSA/tree/master/0048-rotate-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shrutijha-cs28/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
