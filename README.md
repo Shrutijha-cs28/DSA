@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shrutijha-cs28/DSA/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shrutijha-cs28/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shrutijha-cs28/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
