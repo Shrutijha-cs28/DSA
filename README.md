@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shrutijha-cs28/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shrutijha-cs28/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shrutijha-cs28/DSA/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shrutijha-cs28/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shrutijha-cs28/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Shrutijha-cs28/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
