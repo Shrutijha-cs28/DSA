@@ -5,8 +5,7 @@ public:
         string word;
         string result = "";
         int index = 1;
-
-        while (ss >> word) {
+     while (ss >> word) {
             // Check if first character is a vowel
             char first = tolower(word[0]);
 
@@ -36,3 +35,5 @@ public:
         return result;
     }
 };
+
+       
