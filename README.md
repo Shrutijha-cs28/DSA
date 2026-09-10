@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
+| [0925-long-pressed-name](https://github.com/Shrutijha-cs28/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Shrutijha-cs28/DSA/tree/master/1122-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [0925-long-pressed-name](https://github.com/Shrutijha-cs28/DSA/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
