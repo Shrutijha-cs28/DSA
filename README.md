@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shrutijha-cs28/DSA/tree/master/0169-majority-element) |
+| [0859-buddy-strings](https://github.com/Shrutijha-cs28/DSA/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/Shrutijha-cs28/DSA/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
@@ -109,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Shrutijha-cs28/DSA/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/Shrutijha-cs28/DSA/tree/master/0824-goat-latin) |
+| [0859-buddy-strings](https://github.com/Shrutijha-cs28/DSA/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/Shrutijha-cs28/DSA/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
