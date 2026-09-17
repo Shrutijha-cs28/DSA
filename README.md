@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shrutijha-cs28/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shrutijha-cs28/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shrutijha-cs28/DSA/tree/master/0048-rotate-image) |
@@ -108,8 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shrutijha-cs28/DSA/tree/master/0014-longest-common-prefix) |
 | [0696-count-binary-substrings](https://github.com/Shrutijha-cs28/DSA/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/Shrutijha-cs28/DSA/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/Shrutijha-cs28/DSA/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/Shrutijha-cs28/DSA/tree/master/0925-long-pressed-name) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shrutijha-cs28/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
