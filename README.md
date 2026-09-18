@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shrutijha-cs28/DSA/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrutijha-cs28/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Shrutijha-cs28/DSA/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/Shrutijha-cs28/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrutijha-cs28/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Shrutijha-cs28/DSA/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/Shrutijha-cs28/DSA/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Shrutijha-cs28/DSA/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/Shrutijha-cs28/DSA/tree/master/0925-long-pressed-name) |
 ## Trie
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shrutijha-cs28/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
