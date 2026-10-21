@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shrutijha-cs28/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrutijha-cs28/DSA/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shrutijha-cs28/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shrutijha-cs28/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
