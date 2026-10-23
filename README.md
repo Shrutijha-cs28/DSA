@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shrutijha-cs28/DSA/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Shrutijha-cs28/DSA/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Shrutijha-cs28/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shrutijha-cs28/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shrutijha-cs28/DSA/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Shrutijha-cs28/DSA/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/Shrutijha-cs28/DSA/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/Shrutijha-cs28/DSA/tree/master/1122-relative-sort-array) |
 ## Math
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shrutijha-cs28/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Shrutijha-cs28/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Shrutijha-cs28/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Shrutijha-cs28/DSA/tree/master/1544-make-the-string-great) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shrutijha-cs28/DSA/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shrutijha-cs28/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
