@@ -6,7 +6,6 @@ public:
 
         for (string op : ops) {
             if (op == "C") {
-                // Remove the previous score
                 record.pop_back();
             }
             else if (op == "D") {
@@ -23,12 +22,10 @@ public:
                 record.push_back(stoi(op));
             }
         }
-
         int total = 0;
         for (int score : record) {
             total += score;
         }
-
         return total;
     }
 };
