@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shrutijha-cs28/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Shrutijha-cs28/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Shrutijha-cs28/DSA/tree/master/0735-asteroid-collision) |
 | [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Shrutijha-cs28/DSA/tree/master/1122-relative-sort-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shrutijha-cs28/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Shrutijha-cs28/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Shrutijha-cs28/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
 ## Greedy
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shrutijha-cs28/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Shrutijha-cs28/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Shrutijha-cs28/DSA/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Shrutijha-cs28/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Shrutijha-cs28/DSA/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
