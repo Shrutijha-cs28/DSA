@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shrutijha-cs28/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shrutijha-cs28/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Shrutijha-cs28/DSA/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Shrutijha-cs28/DSA/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/Shrutijha-cs28/DSA/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shrutijha-cs28/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Shrutijha-cs28/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -178,8 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shrutijha-cs28/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Shrutijha-cs28/DSA/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Shrutijha-cs28/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shrutijha-cs28/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
