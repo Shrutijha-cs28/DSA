@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shrutijha-cs28/DSA/tree/master/0735-asteroid-collision) |
 | [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Shrutijha-cs28/DSA/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Shrutijha-cs28/DSA/tree/master/1260-shift-2d-grid) |
