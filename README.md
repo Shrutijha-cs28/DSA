@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Shrutijha-cs28/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shrutijha-cs28/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Data Stream
 |  |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shrutijha-cs28/DSA/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shrutijha-cs28/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
