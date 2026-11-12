@@ -13,27 +13,16 @@ public:
     ListNode *getIntersectionNode(ListNode *headA,
                                   ListNode *headB) {
 
-        ListNode* pA = headA;
-        ListNode* pB = headB;
+        ListNode* p1 = headA;
+        ListNode* p2 = headB;
 
-        while (pA != pB) {
-
-            // If pA reaches end, move to headB
-            if (pA == NULL) {
-                pA = headB;
-            } else {
-                pA = pA->next;
-            }
-
-            // If pB reaches end, move to headA
-            if (pB == NULL) {
-                pB = headA;
-            } else {
-                pB = pB->next;
-            }
+        while (p1 != p2) {
+            
+            p1 = (p1 == NULL) ? headB : p1->next;
+            p2 = (p2 == NULL) ? headA : p2->next;
         }
 
-        // Returns intersection node or NULL
-        return pA;
-    }
+        return p1;
+
+      }
 };
