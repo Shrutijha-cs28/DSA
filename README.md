@@ -199,8 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shrutijha-cs28/DSA/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Shrutijha-cs28/DSA/tree/master/0278-first-bad-version) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shrutijha-cs28/DSA/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shrutijha-cs28/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
