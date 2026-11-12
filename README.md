@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shrutijha-cs28/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Shrutijha-cs28/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Shrutijha-cs28/DSA/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shrutijha-cs28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Shrutijha-cs28/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shrutijha-cs28/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shrutijha-cs28/DSA/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Shrutijha-cs28/DSA/tree/master/0278-first-bad-version) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shrutijha-cs28/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
