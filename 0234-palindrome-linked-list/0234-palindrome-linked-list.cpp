@@ -17,9 +17,7 @@ public:
 
         while (curr != nullptr) {
             ListNode* nextNode = curr->next;
-
             curr->next = prev;
-
             prev = curr;
             curr = nextNode;
         }
@@ -35,20 +33,15 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-
         ListNode* secondHalf = reverseList(slow->next);
         ListNode* firstHalf = head;
-
         while (secondHalf != nullptr) {
-
             if (firstHalf->val != secondHalf->val) {
                 return false;
             }
-
             firstHalf = firstHalf->next;
             secondHalf = secondHalf->next;
         }
-
         return true;
     }
 };
